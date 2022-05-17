@@ -1,6 +1,5 @@
 # Blender v3.0.0 OBJ File: ''
 # www.blender.org
-mtllib Sphere_BadUVs.mtl
 o Sphere
 v 0.000000 1.981699 -0.195090
 v 0.000000 1.924793 -0.382683
